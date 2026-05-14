@@ -1,4 +1,4 @@
-
+Get the ultimate Raycast for macOS plugin with Raycast for macOS professional Plugin - window-management and CPU-monitoring. Featuring window-management and CPU-monitoring, it's
 
 
 
